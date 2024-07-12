@@ -22,5 +22,4 @@ These components showcase the versatility of deep learning techniques across div
 
 ## Usage
 1. Ensure that you have the necessary resources (pre-trained models, datasets) downloaded or available.
-2. Experiment with the provided code and adapt it to your specific use case as needed.
-3. Make sure to install the dependencies given in requirements.
+2. Make sure to install the dependencies given in requirements.
